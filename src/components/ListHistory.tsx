@@ -8,7 +8,7 @@ export default function ListHistory() {
             className="p-2 border-b"
           >
             <div className="flex justify-between">
-              <div>Hello world</div>
+              <div>{i}. Hello world</div>
               <div>Remove</div>
             </div>
             <div>10:20</div>
